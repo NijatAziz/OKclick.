@@ -1,0 +1,42 @@
+ 
+ body{
+    display: none;
+ }
+ 
+ *{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+ }
+ 
+ #infos .info .icon{
+    padding: 6px;
+    width: 20%;
+    text-align: center;
+}
+#infos .info .icon i{
+    font-size: 22px;
+}
+
+#infos .info .titles p{
+    font-size: 13px;
+}
+
+.price .text{
+    text-align: center;
+}
+
+#infos .info .titles a{
+    font-size: 13px;
+}
+
+.center-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+}
